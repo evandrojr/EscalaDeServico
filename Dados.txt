@@ -1,0 +1,41 @@
+﻿[Escala]
+Mes=3
+
+#Dias que deseja folgar no mês
+Daniela=9;12;30
+Rosana=3;8
+
+#Número mínimo de finais de semana para folgar
+FolgaMinimaFimDeSemana=1
+
+#Número máximo de dias sem folgar
+TrabalhoSemFolgaMaximo=6
+
+#Número de horas no plantão
+PlantaoHoras=6
+
+#Mínimo de agentes da saúde por turno
+MinimoAgentesSaudeTurno=3
+
+#Máxima diferença no número de horas em um mês
+MaximaDiferençaHorasMes=8
+
+#Feriados
+Feriados=8;4
+
+#Carga horária é = o numero de dias uteis vezes 6
+
+[Funcionarios]
+Rosana=Rosana Santos Mota;SAUDE;ENFª;ENFª;UFBA
+Daniela=Daniela da Silva Leal Diniz;ADM;ENFª;ENFª;SESAB
+
+#Cadastrar os outros!
+
+#Motivos de afastamento
+[MotivosDeAfastamento]
+Ferias=Férias no mês
+Licenca=Licença
+LicencaMaternidade=Licença Maternidade
+
+
+
